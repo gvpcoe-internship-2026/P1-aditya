@@ -1,4 +1,4 @@
-# P6 — AgenticManufactureOps — Multi-Agent Predictive Maintenance with MCP
+# P! — AgenticManufactureOps — Multi-Agent Predictive Maintenance with MCP
 
 **Student:** Aditya Revanth
 **Mentor:** Dr. Kanthi Kiran Sirra
